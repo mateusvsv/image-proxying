@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/mateusvsv/image-proxying/issues"
   },
-  "homepage": "https://github.com/mateusvsv/image-proxying#readme"
+  "homepage": "https://github.com/mateusvsv/image-proxying#readme",
+  "dependencies": {
+    "connect-multiparty": "^2.0.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "ng-file-upload": "^12.0.4"
+  }
 }
